@@ -1,6 +1,6 @@
-package com.example.BiograpyApp.services
+package com.example.BiographyApp.services
 
-import com.example.BiograpyApp.models.About
+import com.example.BiographyApp.models.About
 
 class AboutService {
     fun aboutContentResult(): About {

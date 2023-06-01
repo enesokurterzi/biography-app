@@ -1,10 +1,10 @@
-package com.example.BiograpyApp
+package com.example.BiographyApp
 
 import android.os.Bundle
 import com.bumptech.glide.Glide
-import com.example.BiograpyApp.databinding.ActivityDetailBinding
-import com.example.BiograpyApp.models.Gallery
-import com.example.BiograpyApp.services.GalleryService
+import com.example.BiographyApp.databinding.ActivityDetailBinding
+import com.example.BiographyApp.models.Gallery
+import com.example.BiographyApp.services.GalleryService
 
 class DetailActivity : ForAllMenuActivity() {
 

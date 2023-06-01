@@ -1,9 +1,9 @@
-package com.example.BiograpyApp
+package com.example.BiographyApp
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.BiograpyApp.databinding.ActivityMainBinding
+import com.example.BiographyApp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

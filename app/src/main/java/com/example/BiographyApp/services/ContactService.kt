@@ -1,6 +1,6 @@
-package com.example.BiograpyApp.services
+package com.example.BiographyApp.services
 
-import com.example.BiograpyApp.models.Contact
+import com.example.BiographyApp.models.Contact
 
 class ContactService {
 

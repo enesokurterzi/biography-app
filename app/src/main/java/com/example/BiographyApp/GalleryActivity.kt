@@ -1,13 +1,13 @@
-package com.example.BiograpyApp
+package com.example.BiographyApp
 
 import android.content.DialogInterface
 import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import androidx.appcompat.app.AlertDialog
-import com.example.BiograpyApp.adapter.GalleryCustomAdapter
-import com.example.BiograpyApp.databinding.ActivityGalleryBinding
-import com.example.BiograpyApp.services.GalleryService
+import com.example.BiographyApp.adapter.GalleryCustomAdapter
+import com.example.BiographyApp.databinding.ActivityGalleryBinding
+import com.example.BiographyApp.services.GalleryService
 
 class GalleryActivity : ForAllMenuActivity() {
 

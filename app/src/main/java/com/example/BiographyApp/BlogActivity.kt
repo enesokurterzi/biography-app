@@ -1,9 +1,9 @@
-package com.example.BiograpyApp
+package com.example.BiographyApp
 
 import android.os.Bundle
 import android.view.Menu
 import android.webkit.WebViewClient
-import com.example.BiograpyApp.databinding.ActivityBlogBinding
+import com.example.BiographyApp.databinding.ActivityBlogBinding
 
 class BlogActivity : ForAllMenuActivity() {
 

@@ -1,4 +1,4 @@
-package com.example.BiograpyApp
+package com.example.BiographyApp
 
 import android.content.Intent
 import android.view.Menu

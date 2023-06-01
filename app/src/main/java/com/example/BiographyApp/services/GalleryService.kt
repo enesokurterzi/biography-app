@@ -1,6 +1,6 @@
-package com.example.BiograpyApp.services
+package com.example.BiographyApp.services
 
-import com.example.BiograpyApp.models.Gallery
+import com.example.BiographyApp.models.Gallery
 
 class GalleryService {
 

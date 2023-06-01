@@ -1,4 +1,4 @@
-package com.example.BiograpyApp.models
+package com.example.BiographyApp.models
 
 data class Contact (
     val number: String,

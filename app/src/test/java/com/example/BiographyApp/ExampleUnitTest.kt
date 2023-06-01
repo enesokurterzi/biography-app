@@ -1,4 +1,4 @@
-package com.example.BiograpyApp
+package com.example.BiographyApp
 
 import org.junit.Test
 

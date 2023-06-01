@@ -1,4 +1,4 @@
-package com.example.BiograpyApp.adapter
+package com.example.BiographyApp.adapter
 
 import android.app.Activity
 import android.view.View
@@ -7,8 +7,8 @@ import android.widget.ArrayAdapter
 import android.widget.ImageView
 import android.widget.TextView
 import com.bumptech.glide.Glide
-import com.example.BiograpyApp.R
-import com.example.BiograpyApp.models.Gallery
+import com.example.BiographyApp.R
+import com.example.BiographyApp.models.Gallery
 
 class GalleryCustomAdapter(private val context: Activity, private val list: List<Gallery>) : ArrayAdapter<Gallery>(context, R.layout.custom_list_item, list) {
 

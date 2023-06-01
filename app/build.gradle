@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.BiograpyApp'
+    namespace 'com.example.BiographyApp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.BiograpyApp"
+        applicationId "com.example.BiographyApp"
         minSdk 24
         targetSdk 33
         versionCode 1

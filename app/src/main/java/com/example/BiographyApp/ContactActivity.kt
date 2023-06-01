@@ -1,9 +1,9 @@
-package com.example.BiograpyApp
+package com.example.BiographyApp
 
 import android.os.Bundle
 import android.view.Menu
-import com.example.BiograpyApp.databinding.ActivityContactBinding
-import com.example.BiograpyApp.services.ContactService
+import com.example.BiographyApp.databinding.ActivityContactBinding
+import com.example.BiographyApp.services.ContactService
 
 class ContactActivity : ForAllMenuActivity() {
 
