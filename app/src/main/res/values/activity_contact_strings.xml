@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numberTitle">Number:</string>
+    <string name="number">Number</string>
+    <string name="emailTitle">E-mail:</string>
+    <string name="emailLink">E-mail Link</string>
+    <string name="gitHubTitle">Github:</string>
+    <string name="gitHubLink">Github Link</string>
+    <string name="linkedInTitle">Linkedin:</string>
+    <string name="linkedInLink">Linkedin Link</string>
+</resources>

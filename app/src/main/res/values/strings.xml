@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biography</string>
+    <string name="about_title_activity">About:</string>
+    <string name="about_content_activity">AboutContent</string>
+</resources>
